@@ -68,3 +68,16 @@ g++ src/main.cpp src/FileManager.cpp -Iinclude -pthread -o backup.exe
 ```bash
 backup.exe
 ```
+## Screenshots
+
+### Main Menu
+![Menu](docs/menu.png)
+
+### Backup Operation
+![Backup](docs/backup.png)
+
+### Incremental Backup
+![Incremental](docs/incremental.png)
+
+### Restore Operation
+![Restore](docs/restore.png)
